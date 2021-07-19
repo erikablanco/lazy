@@ -1,0 +1,13 @@
+@import "../_snowpack/pkg/tailwindcss/dist/base.css";
+@import "../_snowpack/pkg/tailwindcss/dist/components.css";
+@import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+
+.containerImage {
+    width: 450px;
+    background-color: #6e67f859;
+    margin: 10px auto;
+    min-height: 120px;
+    
+}
+

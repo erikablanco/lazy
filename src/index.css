@@ -1,0 +1,13 @@
+@import 'tailwindcss/dist/base.css';
+@import 'tailwindcss/dist/components.css';
+@import 'tailwindcss/dist/utilities.css';
+
+
+.containerImage {
+    width: 450px;
+    background-color: #6e67f859;
+    margin: 10px auto;
+    min-height: 120px;
+    
+}
+
